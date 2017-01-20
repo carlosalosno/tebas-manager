@@ -1,0 +1,1 @@
+{"head":"","body":"","js":"\nTemplate.__checkName(\"_publicFooter\");\nTemplate[\"_publicFooter\"] = new Template(\"Template._publicFooter\", (function() {\n  var view = this;\n  return \"\";\n}));\n","bodyAttrs":{}}
